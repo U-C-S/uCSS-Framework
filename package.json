@@ -1,0 +1,16 @@
+{
+  "name": "ucss-framework",
+  "version": "v0",
+  "description": "A description-less CSS Framework, currently in early stages",
+  "author": {"name": "The-UCS-Variable"},
+  "license": "MPL-2.0",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/The-UCS-Variable/uCSS-Framework.git"
+  },
+
+  "keywords": ["CSS","CSS-Framework"],
+  "bugs": {"url": "https://github.com/The-UCS-Variable/uCSS-Framework/issues"}
+  
+}
