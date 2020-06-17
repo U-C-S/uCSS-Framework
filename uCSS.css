@@ -1,4 +1,58 @@
+/*
+__________The-uCSS__________
+_________Frameworkk_________
+Created by The-UCS-Variable
+__________v0.0.10___________
+____________________________
+*/
+
+
 * {
+  font-family: monospace;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
   box-sizing: border-box;
+}
+
+/*--------------------------------------------*/
+p{
   font-size: 14px;
 }
+
+a{
+  text-decoration: none;
+  outline: none;
+}
+
+button{
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+/*
+Colors: {
+  crimson ,
+  hsl(51, 100%, 59%) - bright yellow
+
+}
+
+
+ToDo: {
+  minified version of uCSS,
+
+}
+
+
+Version: {
+  0-1: Intial Versions
+  1-X: Development Versions
+}
+*/
