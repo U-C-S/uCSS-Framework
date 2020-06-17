@@ -1,2 +1,2 @@
 # uCSS-Framework
-A CSS Framework for my own usage
+A descriptionless CSS Framework, still in early stages
