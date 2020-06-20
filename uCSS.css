@@ -2,7 +2,7 @@
 __________The-uCSS__________
 _________Frameworkk_________
 Created by The-UCS-Variable
-__________v0.0.10___________
+__________v0.0.12___________
 ____________________________
 */
 
@@ -20,8 +20,13 @@ body{
 }
 
 /*--------------------------------------------*/
-p{
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
+p, a, pre{
   font-size: 14px;
+  margin: 0;
 }
 
 a{
@@ -35,7 +40,19 @@ button{
   cursor: pointer;
 }
 
+textarea {
+  resize: vertical;
+  overflow: auto;
+}
 
+code{
+  font-size: 12px;
+}
+
+.u-box{
+  margin: 0 auto;
+  padding: 5px;
+}
 
 /*
 Colors: {
