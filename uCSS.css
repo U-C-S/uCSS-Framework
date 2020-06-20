@@ -2,21 +2,24 @@
 __________The-uCSS__________
 _________Frameworkk_________
 Created by The-UCS-Variable
-__________v0.0.12___________
+__________v0.0.13___________
 ____________________________
 */
 
+html{
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
 
 * {
   font-family: monospace;
 }
 
-html{
-  scroll-behavior: smooth;
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 body{
-  box-sizing: border-box;
   margin: 0;
 }
 
