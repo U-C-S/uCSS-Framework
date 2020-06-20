@@ -17,6 +17,7 @@ html{
 
 body{
   box-sizing: border-box;
+  margin: 0;
 }
 
 /*--------------------------------------------*/
@@ -54,7 +55,12 @@ code{
   padding: 5px;
 }
 
+
+
+
+
 /*
+------------------------------------------------
 Colors: {
   crimson ,
   hsl(51, 100%, 59%) - bright yellow
