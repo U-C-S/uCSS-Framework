@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/The-UCS-Variable/uCSS-Framework.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
 
   "keywords": ["CSS","CSS-Framework"],
   "bugs": {"url": "https://github.com/The-UCS-Variable/uCSS-Framework/issues"},

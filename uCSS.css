@@ -9,6 +9,7 @@ ____________________________
 html{
   scroll-behavior: smooth;
   box-sizing: border-box;
+  line-height: 1.15;
 }
 
 * {
@@ -67,6 +68,12 @@ code{
 Colors: {
   crimson ,
   hsl(51, 100%, 59%) - bright yellow
+
+}
+
+Font: {
+  Default font: monospace
+
 
 }
 
