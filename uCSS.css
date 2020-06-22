@@ -54,9 +54,10 @@ code{
   font-size: 12px;
 }
 
-.u-box{
+.ubox{
   margin: 0 auto;
   padding: 5px;
+  width: 100%;
 }
 
 
